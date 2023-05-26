@@ -1,5 +1,7 @@
 # Generate the git command you need using ChatGPT
 
+![image](https://github.com/nataliakzm/GitGPT/assets/45148177/daee0fa4-f1db-43bf-a80a-3fbecc808d3e)
+
 ## How it works
 
 You describe the actions you want to do, and GPT-3 will give you the git commands
